@@ -1,0 +1,1 @@
+FriedmanchisquareResult(statistic=891.7960000000003, pvalue=5.327434292786e-193)

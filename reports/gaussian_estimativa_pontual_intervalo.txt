@@ -1,0 +1,20 @@
+>> accuracy
+> Estimativa pontual: 0.6404761904761904
+> Intervalo de confiança: (0.62, 0.661)
+
+>> f1_weighted
+> Estimativa pontual: 0.6521589354973617
+> Intervalo de confiança: (0.6318, 0.6725)
+
+>> precision_weighted
+> Estimativa pontual: 0.7007425554001628
+> Intervalo de confiança: (0.6812, 0.7203)
+
+>> recall_weighted
+> Estimativa pontual: 0.6404761904761904
+> Intervalo de confiança: (0.62, 0.661)
+
+>> error
+> Estimativa pontual: 0.3595238095238096
+> Intervalo de confiança: (0.339, 0.38)
+

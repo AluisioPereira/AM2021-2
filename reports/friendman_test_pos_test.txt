@@ -1,0 +1,4 @@
+         gaussian knn     logistic
+knn      < 2e-16  -       -       
+logistic < 2e-16  5.4e-14 -
+parzen   3.4e-14  < 2e-16 4.7e-14
