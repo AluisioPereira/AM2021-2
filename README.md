@@ -13,4 +13,4 @@ Projeto da disciplina Aprendizagem de Máquina 2021-2
 
 # Guia de Siglas e fórmulas:
 
-[Google Colab](https://drive.google.com/file/d/1no8zNANYbpueHp40aQVNcpfgYMGcamcN/view?usp=sharing)
+[Google Colab](https://github.com/AluisioPereira/AM2021-2/blob/main/guide.ipynb)
